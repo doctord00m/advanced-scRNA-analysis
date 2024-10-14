@@ -16,17 +16,17 @@ Welcome to the Advanced scRNA-seq Analysis App! This app leverages Streamlit and
 ### 1. UMAP Visualization with Selected Clustering Resolution
 Adjust the clustering resolution to explore how clusters change. This UMAP plot visualizes clusters based on the selected resolution.
 
-![UMAP Visualization](./path_to_images/umap_visualization.png)
+![UMAP Visualization](a.png)
 
 ### 2. Expression of CD3D Across Clusters
 Input a gene (e.g., CD3D) and visualize its expression across clusters on the UMAP plot.
 
-![CD3D Gene Expression](./path_to_images/cd3d_expression.png)
+![CD3D Gene Expression](b.png)
 
 ### 3. Heatmap of Top Marker Genes Across Clusters
 Explore the top differentially expressed genes with this heatmap, which shows marker genes across clusters based on the selected clustering resolution.
 
-![Heatmap of Marker Genes](./path_to_images/heatmap_marker_genes.png)
+![Heatmap of Marker Genes](c.png)
 
 ## How to Run
 
